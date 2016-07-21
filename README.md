@@ -1,6 +1,7 @@
 # expletiveCheck
-Simple checker for foul language that compares a list of dogs to known swear words.
 
-This Python project reads througha  text document for certain keywords and compares it to a list of known swear words.  
+Feature: This is a Python program which compares known foul language against a list of dog breeds and reports if a potentially embarassing word has been detected.
 
-To use this, download Python onto your machine and run with typical Python commands (e.g. python filename.py)
+A ReadMe was not included previously, so now this addresses that issue.
+
+Resolves: This resolves the issue of not having a readme that follows style guides so that it serves to better explain the project.
